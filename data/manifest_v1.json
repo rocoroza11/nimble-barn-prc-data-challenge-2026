@@ -1,0 +1,152 @@
+{
+  "months": {
+    "2025-01-01_2025-02-01": {
+      "raw_dep_rows": 153706,
+      "unmatched_flt": 1432,
+      "deduped_rows": 1,
+      "dropped_bad_taxitime": 56,
+      "dropped_military": 43,
+      "final_rows": 153606
+    },
+    "2025-02-01_2025-03-01": {
+      "raw_dep_rows": 143731,
+      "unmatched_flt": 1109,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 45,
+      "dropped_military": 81,
+      "final_rows": 143605
+    },
+    "2025-03-01_2025-04-01": {
+      "raw_dep_rows": 164450,
+      "unmatched_flt": 1081,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 33,
+      "dropped_military": 55,
+      "final_rows": 164362
+    },
+    "2025-04-01_2025-05-01": {
+      "raw_dep_rows": 175288,
+      "unmatched_flt": 1083,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 37,
+      "dropped_military": 49,
+      "final_rows": 175202
+    },
+    "2025-05-01_2025-06-01": {
+      "raw_dep_rows": 185202,
+      "unmatched_flt": 1603,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 27,
+      "dropped_military": 86,
+      "final_rows": 185089
+    },
+    "2025-06-01_2025-07-01": {
+      "raw_dep_rows": 183142,
+      "unmatched_flt": 2499,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 71,
+      "dropped_military": 108,
+      "final_rows": 182963
+    },
+    "2025-07-01_2025-08-01": {
+      "raw_dep_rows": 190713,
+      "unmatched_flt": 3934,
+      "deduped_rows": 1,
+      "dropped_bad_taxitime": 67,
+      "dropped_military": 56,
+      "final_rows": 190589
+    },
+    "2025-08-01_2025-09-01": {
+      "raw_dep_rows": 191181,
+      "unmatched_flt": 2323,
+      "deduped_rows": 1,
+      "dropped_bad_taxitime": 60,
+      "dropped_military": 28,
+      "final_rows": 191092
+    },
+    "2025-09-01_2025-10-01": {
+      "raw_dep_rows": 183951,
+      "unmatched_flt": 2458,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 30,
+      "dropped_military": 49,
+      "final_rows": 183872
+    },
+    "2025-10-01_2025-11-01": {
+      "raw_dep_rows": 185674,
+      "unmatched_flt": 1910,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 24,
+      "dropped_military": 39,
+      "final_rows": 185611
+    },
+    "2025-11-01_2025-12-01": {
+      "raw_dep_rows": 162332,
+      "unmatched_flt": 1349,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 22,
+      "dropped_military": 66,
+      "final_rows": 162244
+    },
+    "2025-12-01_2026-01-01": {
+      "raw_dep_rows": 165677,
+      "unmatched_flt": 1643,
+      "deduped_rows": 0,
+      "dropped_bad_taxitime": 28,
+      "dropped_military": 53,
+      "final_rows": 165596
+    }
+  },
+  "airports": {
+    "EDDF": {
+      "total_rows": 230089,
+      "has_flt_match_rate": 0.9914989417138586,
+      "file": "cleaned_EDDF_2025.feather"
+    },
+    "EDDM": {
+      "total_rows": 167131,
+      "has_flt_match_rate": 0.9939628195846372,
+      "file": "cleaned_EDDM_2025.feather"
+    },
+    "EGLL": {
+      "total_rows": 239546,
+      "has_flt_match_rate": 0.9940971671411754,
+      "file": "cleaned_EGLL_2025.feather"
+    },
+    "EHAM": {
+      "total_rows": 247845,
+      "has_flt_match_rate": 0.9835259940688736,
+      "file": "cleaned_EHAM_2025.feather"
+    },
+    "LEBL": {
+      "total_rows": 179656,
+      "has_flt_match_rate": 0.9896691454780246,
+      "file": "cleaned_LEBL_2025.feather"
+    },
+    "LEMD": {
+      "total_rows": 212125,
+      "has_flt_match_rate": 0.9955733647613435,
+      "file": "cleaned_LEMD_2025.feather"
+    },
+    "LFPG": {
+      "total_rows": 239423,
+      "has_flt_match_rate": 0.9843289909490734,
+      "file": "cleaned_LFPG_2025.feather"
+    },
+    "LIRF": {
+      "total_rows": 160588,
+      "has_flt_match_rate": 0.9913941265848009,
+      "file": "cleaned_LIRF_2025.feather"
+    },
+    "LSZH": {
+      "total_rows": 134495,
+      "has_flt_match_rate": 0.984742927246366,
+      "file": "cleaned_LSZH_2025.feather"
+    },
+    "LTFM": {
+      "total_rows": 272933,
+      "has_flt_match_rate": 0.9867330077344989,
+      "file": "cleaned_LTFM_2025.feather"
+    }
+  }
+}
